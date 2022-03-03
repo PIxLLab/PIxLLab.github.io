@@ -11,4 +11,4 @@ author: Z Toups Dugas
 
 Dr. Ahmed Khalaf finished his Ph.D., with a different conclusion than expected. Awesome work on the pivot!
 
-![screenshot of six individuals in zoom windows; five are congratulating the one in the lower-right corner](/docs/assets/images/ahmed-congrats-zoom-small.jpeg)
+![screenshot of six individuals in zoom windows; five are congratulating the one in the lower-right corner](/docs/assets/images/ahmed-congrats-zoom-small.jpg)
