@@ -4,6 +4,8 @@ Welcome to the web presence for the Play & Interactive Experiences (PIxL) Lab at
 
 Our current work looks largely at how we can develop information technology support for disaster response contexts. Much of this derives from analyzing game designs and their player interfaces to understand what does and does not work for real-world interfaces. 
 
+Prof. Phoebe O. Toups Dugas is PI; her contact information can be found at the [NMSU Computer Science site](https://computerscience.nmsu.edu/facultydirectory/individual-bio-pages/p-toups-dugas.html).
+
 ## Latest Posts
 
 {% for post in site.posts limit:5 %}  
