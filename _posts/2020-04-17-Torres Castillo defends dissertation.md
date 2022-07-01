@@ -5,7 +5,7 @@ title: "Torres Castillo successfully defends her dissertation [online during the
 date: 2020-04-17 00:00:00 -0000
 categories: news students people
 tags: news students people
-author: Z Toups Dugas
+author: Phoebe O. Toups Dugas
 
 ---
 
